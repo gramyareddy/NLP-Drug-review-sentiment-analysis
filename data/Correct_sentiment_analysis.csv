@@ -1,0 +1,332 @@
+,0,1,2
+0,"""Caused anxiety and panic attacks""",1,NEG
+1,"""Amazing topical relief. I 100% recommend it.""",10,POS
+2,"""Great miracle.""",10,POS
+3,"""Absolute BEST """,10,POS
+4,"""Pain in joints,,nausea,abd. Pain""",1,NEG
+5,"""Good medicine""",10,POS
+6,"""Suicidal thoughts""",3,NEG
+7,"""Horrible pain. Was hospitalized. Terrible drug.""",1,NEG
+8,"""Terrible akathisia.""",1,NEG
+9,"""I loved it!!!!""",9,POS
+10,"""Made my depression and anxiety worse.  Caused more instances of suicidal ideation.""",2,NEG
+11,"""Severe constipation""",4,NEG
+12,"""Great miracle.""",10,POS
+13,"""Relax nicely, act better than cyclobenzaprine""",8,POS
+14,"""Love it love it""",9,POS
+15,"""Works great I love it.""",10,POS
+16,"""Very good""",10,POS
+17,"""Amazing results!""",10,POS
+18,"""I loved it!!!!""",10,POS
+19,"""good experience.""",10,POS
+20,"""It helps""",10,POS
+21,"""Effective and not irritating""",10,POS
+22,"""Work good""",8,POS
+23,"""very helpful""",7,POS
+24,"""Weight gain""",9,POS
+25,"""No relief.""",1,NEG
+26,"""Severe allergic reaction.""",1,NEG
+27,"""Great results.""",8,POS
+28,"""Worse drug ever!! Was depressed and more sick :(""",1,NEG
+29,"""Wonderful medication!!""",9,POS
+30,"""Very good""",9,POS
+31,"""hair loss massive hair loss""",1,NEG
+32,"""Awesome stuff""",10,POS
+33,"""Works Great""",10,POS
+34,"""Horrible mood swings! :( Changing ASAP!""",2,NEG
+35,"""Works great, strong stuff.""",10,POS
+36,"""Great drug.""",10,POS
+37,"""Was relieved""",9,POS
+38,"""Lifesaver drug!!!""",10,POS
+39,"""Great medication""",10,POS
+40,"""Works great, really helps""",10,POS
+41,"""Hallucinations, nausea, irritability and exhausted""",3,NEG
+42,"""Definitely relieves my headache.""",10,POS
+43,"""Great for rescue nebulizer.""",10,POS
+44,"""Bad dizziness, bad nausea, sleepiness.""",1,NEG
+45,"""Works effectively""",9,POS
+46,"""Horrible drug. Avoid it""",1,NEG
+47,"""Miracle drug""",10,POS
+48,"""Works great""",10,POS
+49,"""Worst side effects ever!!!!!!!""",1,NEG
+50,"""Felt horrible, very depressed, lethargic, tired all the time.""",1,NEG
+51,"""Hated it""",1,NEG
+52,"""Works well. Popular brand.""",7,POS
+53,"""Very good""",10,POS
+54,"""Fatigue, weakness, bad bruising, bleeding, stomach pain, diarrhea, headache.""",1,NEG
+55,"""Wonderful medication!!""",9,POS
+56,"""The best ever!!!!""",10,POS
+57,"""its awesome""",10,POS
+58,"""Good Results""",9,POS
+59,"""bad side effects""",1,NEG
+60,"""Caused severe agitation &amp; anger""",2,NEG
+61,"""Very good""",10,POS
+62,"""Great
+Effective
+Unbelievable""",10,POS
+63,"""Exceptionelly great""",10,POS
+64,"""Well worth it.""",10,POS
+65,"""Great help.""",10,POS
+66,"""Worst drug to alter your mind and make you crazy. Severely depressed and suicidal""",1,NEG
+67,"""Effective and not irritating""",10,POS
+68,"""Not Good""",1,NEG
+69,"""Horrible side effects.""",1,NEG
+70,"""Good Results""",9,POS
+71,"""Great drug.""",10,POS
+72,"""Works effectively""",9,POS
+73,"""Awful. Horrendous mood swings. Depression. Anxiety. Night sweats.""",2,NEG
+74,"""Terrible hallucinations!""",1,NEG
+75,"""Very good""",9,POS
+76,"""Excellent """,10,POS
+77,"""Caused suicidal depression""",1,NEG
+78,"""Works Great""",10,POS
+79,"""Works great, really helps""",10,POS
+80,"""Excellent results""",10,POS
+81,"""Flu kidney infectiion muscle aches""",4,NEG
+82,"""Back pain, vomiting, fever, stomach pain""",1,NEG
+83,"""Relaxed and calm""",10,POS
+84,"""God send!""",10,POS
+85,"""Worse drug ever!! Was depressed and more sick :(""",1,NEG
+86,"""Great medication!""",9,POS
+87,"""Miracle medicine!""",10,POS
+88,"""Wonderfully highly recommended""",10,POS
+89,"""Made me sick""",1,NEG
+90,"""Caused suicidal thoughts.""",1,NEG
+91,"""Worse pain and total lack of movement.""",1,NEG
+92,"""Very effective""",10,POS
+93,"""Not good""",1,NEG
+94,"""Wonderful drug.""",10,POS
+95,"""Good medicine.""",10,POS
+96,"""Works great. """,10,POS
+97,"""Love it!""",10,POS
+98,"""Horrible mood swings! :( Changing ASAP!""",2,NEG
+99,"""I hate this pill, extreme depression, breast pain, moody, cry at everything. Do not recommend.""",1,NEG
+100,"""Helped with anxiety but made my depression worst""",3,NEG
+101,"""Very good""",9,POS
+102,"""pretty good.""",10,POS
+103,"""Made my pain worse""",1,NEG
+104,"""Excellent medicine.""",10,POS
+105,"""I&#039;m naturally depressed/anxious, but this medicine has made it so much worse. Panic attacks, headaches, suicidal thoughts. Awful experience.""",1,NEG
+106,"""Highly effective""",10,POS
+107,"""Great drug!""",10,POS
+108,"""Is good""",10,POS
+109,"""Very good""",10,POS
+110,"""Good medicine.""",9,POS
+111,"""working great""",9,POS
+112,"""Definitely a good product.""",9,POS
+113,"""Very helpful""",10,POS
+114,"""Experienced bad adverse effect with tablets.  No problem with nasal spray""",1,NEG
+115,"""great treatment""",7,POS
+116,"""Fatigue, weakness, bad bruising, bleeding, stomach pain, diarrhea, headache.""",1,NEG
+117,"""Very effective. """,9,POS
+118,"""Good medicine.""",10,POS
+119,"""Fatigue
+Joint Pain
+Depression
+Loss of libido""",3,NEG
+120,"""Great medicine.""",10,POS
+121,"""Bad experience. Bad sleep.""",3,NEG
+122,"""Diarrhea, uncontrollable muscle spasms, severe panic attacks, severe anxiety, severe restlessness, sweating, and bruising is all this medication did to me.""",1,NEG
+123,"""Love it""",10,POS
+124,"""severe depression and anxiety""",1,NEG
+125,"""So helpful""",10,POS
+126,"""works great""",10,POS
+127,"""Bad side effects.""",4,NEG
+128,"""Good efficacy.""",10,POS
+129,"""works great""",10,POS
+130,"""Good medicine.""",9,POS
+131,"""Good result.""",8,POS
+132,"""works great""",10,POS
+133,"""Excellent product.""",10,POS
+134,"""Love it.""",10,POS
+135,"""Works Great""",10,POS
+136,"""Dizzy, insomnia, nervous, anxious, upset stomach, wobbly, difficulty walking.""",3,NEG
+137,"""Its Amazing""",10,POS
+138,"""Good medicine.""",9,POS
+139,"""Works great""",10,POS
+140,"""Good stuff.""",10,POS
+141,"""Horrible horrible nausea""",1,NEG
+142,"""Feeling dizzy , severe head-ache""",1,NEG
+143,"""Great help""",8,POS
+144,"""Not effective""",2,NEG
+145,"""Excellent results--very calming effect""",9,POS
+146,"""Good efficacy.""",10,POS
+147,"""Caused suicidal ideation""",1,NEG
+148,"""Very good""",10,POS
+149,"""Very good""",10,POS
+150,"""Miracle drug.""",10,POS
+151,"""Good Information.""",9,POS
+152,"""Within a week suffered suicidal thoughts psychosis hallucinations rages and self harming acts!""",1,NEG
+153,"""Helps tremendously.""",10,POS
+154,"""Works great""",10,POS
+155,"""Very effective. """,9,POS
+156,"""Helps greatly.""",10,POS
+157,"""Severe back pain sore chest swollen legs  sore pecs 6 weeks of misery""",3,NEG
+158,"""Severe allergic reaction.""",1,NEG
+159,"""Horrible pain. Was hospitalized. Terrible drug.""",1,NEG
+160,"""Bad side effects!""",1,NEG
+161,"""Good and effective antibiotic.""",10,POS
+162,"""Excellent product.""",10,POS
+163,"""Awesome stuff""",10,POS
+164,"""Terrible side effects, difficult withdrawal""",1,NEG
+165,"""Amazing presentation.""",10,POS
+166,"""I hate this pill, extreme depression, breast pain, moody, cry at everything. Do not recommend.""",1,NEG
+167,"""Horrible drug. Avoid it""",1,NEG
+168,"""Not effective""",1,NEG
+169,"""Very good and effective""",10,POS
+170,"""very good""",9,POS
+171,"""Amazing difference.""",9,POS
+172,"""Horrible jitters, severe agitation, irritable, sleeplessness, thoughts wandered, and dizziness after one dose.""",1,NEG
+173,"""Definitely helps.""",9,POS
+174,"""Good medicine.""",9,POS
+175,"""INSOMNIA and FEELING HORRIFICALLY HORRIBLE AFTER 1 DOSE.  NO MORE POISON, PLEASE!!""",1,NEG
+176,"""Its Amazing""",10,POS
+177,"""Works great. Love it.""",10,POS
+178,"""Good medicine""",7,POS
+179,"""Very helpful""",8,POS
+180,"""does great to help withdrawls!""",10,POS
+181,"""Works Great""",10,POS
+182,"""Works great""",10,POS
+183,"""Caused anxiety and panic attacks""",1,NEG
+184,"""I loved it!!!!""",9,POS
+185,"""Caused severe agitation &amp; anger""",2,NEG
+186,"""Very good""",8,POS
+187,"""Lifesaver drug!!!""",10,POS
+188,"""Severe hair loss. pain in shoulders. sleep problems. depression.""",2,NEG
+189,"""Severe constipation""",4,NEG
+190,"""love it""",10,POS
+191,"""Severe stomach pain &amp; dierria""",1,NEG
+192,"""The best ever!!!!""",10,POS
+193,"""Good product""",9,POS
+194,"""God send!""",10,POS
+195,"""Great for rescue nebulizer.""",10,POS
+196,"""INSOMNIA and FEELING HORRIFICALLY HORRIBLE AFTER 1 DOSE.  NO MORE POISON, PLEASE!!""",1,NEG
+197,"""Severe nausea, headaches, weight loss, depression""",2,NEG
+198,"""Absolute BEST """,10,POS
+199,"""Fatigue
+Joint Pain
+Depression
+Loss of libido""",3,NEG
+200,"""Is good""",10,POS
+201,"""Within a week suffered suicidal thoughts psychosis hallucinations rages and self harming acts!""",1,NEG
+202,"""Definitely helps.""",9,POS
+203,"""Awesome information.""",10,POS
+204,"""Terrible hallucinations!""",1,NEG
+205,"""Miracle pill.""",10,POS
+206,"""Pain in joints,,nausea,abd. Pain""",1,NEG
+207,"""Very good""",8,POS
+208,"""Severe stomach pain &amp; dierria""",1,NEG
+209,"""It is truly amazing""",10,POS
+210,"""Good stuff.""",9,POS
+211,"""Works amazing""",10,POS
+212,"""Miracle drug""",10,POS
+213,"""Highly effective""",10,POS
+214,"""Very good""",9,POS
+215,"""Very good""",10,POS
+216,"""Bad dizziness, bad nausea, sleepiness.""",1,NEG
+217,"""Loving it, thanks for a great product.""",10,POS
+218,"""Great experience!!""",10,POS
+219,"""Amazing topical relief. I 100% recommend it.""",10,POS
+220,"""Caused suicidal thoughts.""",1,NEG
+221,"""Wonderful good sleep....""",9,POS
+222,"""Amazing relief!""",10,POS
+223,"""Love it!""",8,POS
+224,"""Well worth it.""",10,POS
+225,"""Very good""",10,POS
+226,"""Severe heartburn and bad taste""",1,NEG
+227,"""Great immune booster.""",10,POS
+228,"""Thank you""",10,POS
+229,"""Excellent """,10,POS
+230,"""Great immune booster.""",10,POS
+231,"""Extreme fatigue, unclear thinking, aches, irritability, dizziness.""",1,NEG
+232,"""Good and effective antibiotic.""",10,POS
+233,"""Good Information.""",9,POS
+234,"""Great treatment!""",10,POS
+235,"""Good """,10,POS
+236,"""works great""",10,POS
+237,"""Awesome medicine, changed my life! Love Love Love it!""",10,POS
+238,"""Hallucinations, nausea, irritability and exhausted""",3,NEG
+239,"""Awesome information.""",10,POS
+240,"""It caused panic attacks on me. Terrible drug.""",1,NEG
+241,"""Works great""",7,POS
+242,"""Terrible joint pain after 4 days. """,1,NEG
+243,"""Horrible yeast infection.""",1,NEG
+244,"""Severe diarrhea and fatigue""",1,NEG
+245,"""Good medicine.""",10,POS
+246,"""Love it!""",8,POS
+247,"""Good drug""",10,POS
+248,"""Very good""",10,POS
+249,"""Very good""",10,POS
+250,"""Works great""",9,POS
+251,"""Very nice""",10,POS
+252,"""Excellent product""",10,POS
+253,"""Love it.""",9,POS
+254,"""It was great help. Thanks""",10,POS
+255,"""Works great""",10,POS
+256,"""It&#039;s awesome""",10,POS
+257,"""works great""",10,POS
+258,"""Wonderful drug.""",10,POS
+259,"""Love it.""",10,POS
+260,"""NIfedipine helps""",9,POS
+261,"""Super good for depression.""",10,POS
+262,"""Definitely a good product.""",9,POS
+263,"""Terrible side effects.""",1,NEG
+264,"""Made my depression and anxiety worse.  Caused more instances of suicidal ideation.""",2,NEG
+265,"""Works amazing""",10,POS
+266,"""Amazing drug ! Love it .""",10,POS
+267,"""Great medicine.""",9,POS
+268,"""Feeling Great and normal""",10,POS
+269,"""Perfect experience.""",10,POS
+270,"""very good""",9,POS
+271,"""Terrible akathisia.""",1,NEG
+272,"""Amazing medicine""",10,POS
+273,"""Immediate Relief""",10,POS
+274,"""Great drug!""",10,POS
+275,"""It&#039;s awesome""",10,POS
+276,"""It works great. I love it.""",10,POS
+277,"""Serious chest &amp; joint pain. Headaches. Leg pain""",1,NEG
+278,"""great treatment""",7,POS
+279,""" love it""",10,POS
+280,"""very good""",9,POS
+281,"""Good medicine.""",9,POS
+282,"""Made my depression worse, had to stop it.....""",1,NEG
+283,"""works great""",10,POS
+284,"""Worst drug to alter your mind and make you crazy. Severely depressed and suicidal""",1,NEG
+285,"""Helps you stable and calm""",10,POS
+286,"""Helps greatly.""",10,POS
+287,"""Feeling Great and normal""",10,POS
+288,"""Terrible Side Effects""",1,NEG
+289,"""Good result.""",8,POS
+290,"""works great""",10,POS
+291,"""Bad side effects, bad withdrawal.""",1,NEG
+292,"""good results""",7,POS
+293,"""Definitely relieves my headache.""",10,POS
+294,"""Work good""",10,POS
+295,"""Miracle drug.""",10,POS
+296,"""Great experience!!""",10,POS
+297,"""Caused suicidal depression""",1,NEG
+298,"""Love it.""",10,POS
+299,"""Excellent results""",10,POS
+300,"""Excellent product.""",10,POS
+301,"""Excellent  experience""",10,POS
+302,"""Works great I love it.""",10,POS
+303,"""Helps you stable and calm""",10,POS
+304,"""Awful. Horrendous mood swings. Depression. Anxiety. Night sweats.""",2,NEG
+305,"""Great help""",8,POS
+306,"""Good strength and quality.""",9,POS
+307,"""Hate it""",2,NEG
+308,"""Suicidal thoughts""",3,NEG
+309,"""Horrible horrible nausea""",1,NEG
+310,"""Great medicine""",10,POS
+311,"""Restless legs worse""",1,NEG
+312,"""Was on for 3 weeks. Went from having anxiety and panic attacks to having severe depression and suicidal thoughts.""",1,NEG
+313,"""Miracle medicine!""",10,POS
+314,"""Extreme anxiety, exhausted""",2,NEG
+315,"""works great""",8,POS
+316,"""Definitely effective.""",10,POS
+317,"""Worst side effects ever!!!!!!!""",1,NEG
+318,"""Good medicine.""",9,POS
+319,"""Horrible yeast infection.""",1,NEG
+320,"""Amazing medicine""",10,POS
+321,"""amazing medication""",10,POS
+322,"""Very good improvement""",8,POS
